@@ -1,0 +1,56 @@
+.frontpage-search__button {
+/*margin-left: 20px;*/
+margin-right: 20px;
+}
+
+.sitetoolbar__content{
+padding: 0 10px;
+}
+.sitetoolbar__lang-switcher .sitetoolbar__dropdown-body:before {
+    /*right: auto;*/
+    /*left: 21px;*/
+    right: 21px;
+    left: auto;
+}
+.sitetoolbar__lang-switcher .sitetoolbar__dropdown-body {
+    /*right: auto;*/
+    /*left: -15px;*/
+	right: -15px;
+    left: auto;
+}
+.comments__read-before {
+	/*right:0;*/
+    left: 0;
+}
+.page-footer__item:not(:nth-last-child(-n+1)):after {
+    margin: 12px;
+}
+
+.frontpage-banner__github, .frontpage-banner__subscribe, .frontpage-banner__updated-at {
+    /*margin-right: 25px;*/
+    margin-left: 25px;
+}
+
+.about-team__member-upic {
+    /*margin-left: 16px;*/
+    margin-left: 16px;
+}
+
+.about-maintainers__member-upic {
+
+    /*margin-right: 16px;*/
+    margin-left: 16px;
+}
+
+.about-contributors__table {
+	/*text-align: left;*/
+    text-align: right;
+}
+.about-contributors__userpic {
+	/*margin-right: 8px;*/
+    margin-left: 8px;
+}
+.about-contacts__phone{
+	direction:ltr;
+	text-align:right;
+}
